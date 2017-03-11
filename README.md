@@ -1,9 +1,9 @@
 # Sintetizador Subtrativo Monofônico de Áudio Baseado no MiniMoog.
 
-Implementação em STM32F4-Discovery de um sintetizador baseado no Minimoog D, utilizou-se o módulo de aúdio UDA1380 em conjunto com a biblioteca fornecida pelo Prof. Décio Luiz Gazzoni Filho, para realizar o processamento de aúdio.
+Implementação em STM32F4-Discovery de um sintetizador baseado no Minimoog D, utilizou-se o módulo de aúdio UDA1380 em conjunto com a biblioteca fornecida pelo Prof. Décio Luiz Gazzoni Filho, para realizar o processamento de aúdio com a UDA1380.
 
 
-utilizou-se também para realizar os controles das características e variáveis do sistema, uma interface implementada em MatLab em conjunto com uma comunicação via USART (RS232) para a tranferência de dados entre a aplicação de controle e o microcontrolador.
+Utilizou-se também para realizar os controles das características e variáveis do sistema, uma interface implementada em MatLab em conjunto com uma comunicação via USART (RS232) para a tranferência de dados entre a aplicação de controle e o microcontrolador.
 
 
 # Organização:
