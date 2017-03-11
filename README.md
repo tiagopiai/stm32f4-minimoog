@@ -63,5 +63,9 @@ Sempre uma oitava acima da nota tocada, podendo ser ajustada para cinco tons aba
 ## Interface Gráfica para Controle:
 
 
-
+### Implementação do Software:
+- Giovlherme Brandão,
+- João Henrique, 
+- Tiago Piai, 
+- Igor Itsuo
 
