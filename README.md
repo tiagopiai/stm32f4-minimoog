@@ -64,8 +64,8 @@ Sempre uma oitava acima da nota tocada, podendo ser ajustada para cinco tons aba
 
 
 ### Implementação do Software:
-- Giovlherme Brandão,
-- João Henrique, 
-- Tiago Piai, 
+- Guilherme Brandão
+- João Henrique
+- Tiago Piai 
 - Igor Itsuo
 
