@@ -13,6 +13,8 @@ Utilizou-se também para realizar os controles das características e variáveis
 ## Diagrama de Blocos:
 Diagrama de blocos similar ao apresentado nos Minimoogs clássicos. O diagrama foi levantado com o auxílio do Prof. Décio Gazzoni.
 
+![Diagram de Blocos](/img/diagram-moog.png)
+
 ## Osciladores:
 Foram utilizados valores tabelados gerados através do MatLab para criar DDCs para a implementação dos osciladores. Utilizou-se também, uma interpolação linear para obter valores intermediários de frequências.
 
@@ -36,6 +38,9 @@ Frequência do sinal modulante e intensidade do LFO.
 É possível escolher uma faixa de frequência de atuação do LFO, a qual vai de 0,05Hz até 200Hz. Além disso, se o botão estiver no mínimo, a onda utilizada é triangular, e se estiver próximo ao máximo, a onda é quadrada.
 
 ## Geradores de Envelope (Amplitude):
+
+![Diagram do Gerador de Envelope](/img/diagram-env.png)
+
 - **Attack:**
 Tempo de disparo da nota após  a tecla ser pressionada (1ms - 10s)
 - **Decay:**
@@ -64,6 +69,8 @@ Sempre uma oitava acima da nota tocada, podendo ser ajustada para cinco tons aba
 
 
 ## Interface Gráfica para Controle:
+
+![Interface Gráfica MatLab](/img/interface.png)
 
 
 ### Implementação do Software:
