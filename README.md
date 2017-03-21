@@ -6,7 +6,18 @@ Implementação em STM32F4-Discovery de um sintetizador baseado no Minimoog D, u
 Utilizou-se também para realizar os controles das características e variáveis do sistema, uma interface implementada em MatLab em conjunto com uma comunicação via USART (RS232) para a tranferência de dados entre a aplicação de controle e o microcontrolador.
 
 
-# Organização:
+# Visão Geral:
+## Principais arquivos:
+
+* `sintetizador`: Definições e estruturas gerais do sintetizador.
+
+* `wavetable`: Contém os valores de um período de cada onda (2048 amostras).
+
+* `teclado`: Funções e declarações das GPIOs e EXTIs.
+
+* `usart`: Contém as funções para a recepção e envio via usart (micro-pc).
+
+## Organização:
 ```
 | Minimoog.pdf
 |
