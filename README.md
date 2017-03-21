@@ -7,9 +7,22 @@ Utilizou-se também para realizar os controles das características e variáveis
 
 
 # Organização:
+| Minimoog.pdf/
+|
+| UDA1380/
+| __ UDA1380_Lib/
+|   |__ main.c
+|   |__ sintetizador.h
+|   |__ teclado.c
+|   |__ teclado.h
+|   |__ usart.c
+|   |__ usart.h
+|   |__ wavetable.h
+|	
+| img/
+|
 
 # Componentes:
-
 ## Diagrama de Blocos:
 Diagrama de blocos similar ao apresentado nos Minimoogs clássicos. O diagrama foi levantado com o auxílio do Prof. Décio Gazzoni.
 
