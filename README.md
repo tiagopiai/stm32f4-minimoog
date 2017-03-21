@@ -15,7 +15,7 @@ Utilizou-se também para realizar os controles das características e variáveis
 
 * `teclado`: Funções e declarações das GPIOs e EXTIs.
 
-* `usart`: Contém as funções para a recepção e envio via usart (micro-pc).
+* `usart`: Contém as funções para a recepção e envio via USART (RS232) entre o ARM e o PC.
 
 ## Organização:
 ```
