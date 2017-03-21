@@ -7,6 +7,7 @@ Utilizou-se também para realizar os controles das características e variáveis
 
 
 # Organização:
+"""
 | Minimoog.pdf/
 |
 | UDA1380/
@@ -21,7 +22,7 @@ Utilizou-se também para realizar os controles das características e variáveis
 |	
 | img/
 |
-
+"""
 # Componentes:
 ## Diagrama de Blocos:
 Diagrama de blocos similar ao apresentado nos Minimoogs clássicos. O diagrama foi levantado com o auxílio do Prof. Décio Gazzoni.
